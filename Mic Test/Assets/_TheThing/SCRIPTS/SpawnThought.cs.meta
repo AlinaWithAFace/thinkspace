@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0bba6f3952baa5d448f9ed6515379a6b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - thoughtBubblePrefab: {fileID: 1443136890044250, guid: 77e81dc27f776ad43b86fa426e82f203,
+      type: 2}
+  - mesh: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

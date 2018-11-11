@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fcc3cf31-c912-40f6-8872-4d1c578a3d76" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="SavWav.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/_TheThing/SCRIPTS/SavWav.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="151" column="33" selection-start-line="151" selection-start-column="33" selection-end-line="151" selection-end-column="33" />
+              <folding>
+                <marker date="1541870806738" expanded="true" signature="0:1181" ph="/* Copyright (c) 2012 Calvin Rien ... */" />
+                <marker date="1541870806738" expanded="false" signature="1189:1266" ph="..." />
+                <marker date="1541870806738" expanded="true" signature="1294:6231" ph="{...}" />
+                <marker date="1541870806738" expanded="true" signature="1390:1999" ph="{...}" />
+                <marker date="1541870806738" expanded="true" signature="1446:1498" ph="{...}" />
+                <marker date="1541870806738" expanded="true" signature="1801:1912" ph="{...}" />
+                <marker date="1541870806738" expanded="true" signature="2067:2252" ph="{...}" />
+                <marker date="1541870806738" expanded="true" signature="2347:2429" ph="{...}" />
+                <marker date="1541870806738" expanded="true" signature="2547:3147" ph="{...}" />
+                <marker date="1541870806738" expanded="true" signature="2613:2729" ph="{...}" />
+                <marker date="1541870806738" expanded="true" signature="2668:2719" ph="{...}" />
+                <marker date="1541870806738" expanded="true" signature="2814:2930" ph="{...}" />
+                <marker date="1541870806738" expanded="true" signature="2869:2920" ph="{...}" />
+                <marker date="1541870806738" expanded="true" signature="3199:3479" ph="{...}" />
+                <marker date="1541870806738" expanded="true" signature="3380:3445" ph="{...}" />
+                <marker date="1541870806738" expanded="true" signature="3551:4356" ph="{...}" />
+                <marker date="1541870806738" expanded="true" signature="3837:3949" ph="/* bytesData array is twice the size of ... */" />
+                <marker date="1541870806738" expanded="true" signature="4063:4291" ph="{...}" />
+                <marker date="1541870806738" expanded="true" signature="4424:6229" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SpawnThought.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/_TheThing/SCRIPTS/SpawnThought.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+              <folding>
+                <marker date="1541909471879" expanded="true" signature="6:75" ph="..." />
+                <marker date="1541909471879" expanded="true" signature="104:760" ph="{...}" />
+                <marker date="1541909471879" expanded="true" signature="152:758" ph="{...}" />
+                <marker date="1541909471879" expanded="true" signature="303:752" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MicListenerNew.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/_TheThing/SCRIPTS/MicListenerNew.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="47" column="22" selection-start-line="47" selection-start-column="11" selection-end-line="47" selection-end-column="22" />
+              <folding>
+                <marker date="1541906637408" expanded="false" signature="6:294" ph="..." />
+                <marker date="1541906637408" expanded="true" signature="379:8117" ph="{...}" />
+                <marker date="1541906637408" expanded="true" signature="386:489" ph="/* Written in part by Benjamin Outram ... */" />
+                <marker date="1541906637408" expanded="true" signature="839:1067" ph="/* public to allow temporary listening over the speakers if you want of the mic output ... */" />
+                <marker date="1541906637408" expanded="true" signature="1212:1936" ph="/* make an audio mixer from the &quot;create&quot; menu, then drag it into the public field on this script. ... */" />
+                <marker date="1541906637408" expanded="true" signature="2058:2241" ph="{...}" />
+                <marker date="1541906637408" expanded="true" signature="2135:2235" ph="{...}" />
+                <marker date="1541906637408" expanded="true" signature="2260:3079" ph="{...}" />
+                <marker date="1541906637408" expanded="true" signature="2427:2541" ph="{...}" />
+                <marker date="1541906637408" expanded="true" signature="2579:2695" ph="{...}" />
+                <marker date="1541906637408" expanded="true" signature="3175:3619" ph="{...}" />
+                <marker date="1541906637408" expanded="true" signature="3427:3492" ph="{...}" />
+                <marker date="1541906637408" expanded="true" signature="3645:6444" ph="{...}" />
+                <marker date="1541906637408" expanded="true" signature="5245:6438" ph="/* url = &quot;https://speech.googleapis.com/v1/speech:recognize?key=&quot;+apiKey; ... */" />
+                <marker date="1541906637408" expanded="true" signature="6488:6786" ph="{...}" />
+                <marker date="1541906637408" expanded="true" signature="6793:6934" ph="/* controls whether the volume is on or off, use &quot;off&quot; for mic input (dont want to hear your own voice input!) ... */" />
+                <marker date="1541906637408" expanded="true" signature="6977:7195" ph="{...}" />
+                <marker date="1541906637408" expanded="true" signature="7031:7078" ph="{...}" />
+                <marker date="1541906637408" expanded="true" signature="7091:7140" ph="{...}" />
+                <marker date="1541906637408" expanded="true" signature="7305:7475" ph="{...}" />
+                <marker date="1541906637408" expanded="true" signature="7578:8115" ph="{...}" />
+                <marker date="1541906637408" expanded="true" signature="7618:8109" ph="{...}" />
+                <marker date="1541906637408" expanded="true" signature="7790:8099" ph="{...}" />
+                <marker date="1541906637408" expanded="true" signature="7995:8031" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SendText.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/_TheThing/SCRIPTS/SendText.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="33" lean-forward="true" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+              <folding>
+                <marker date="1541911855041" expanded="true" signature="6:122" ph="..." />
+                <marker date="1541911855041" expanded="true" signature="162:817" ph="{...}" />
+                <marker date="1541911855041" expanded="true" signature="224:256" ph="{...}" />
+                <marker date="1541911855041" expanded="true" signature="281:815" ph="{...}" />
+                <marker date="1541911855041" expanded="true" signature="726:760" ph="{...}" />
+                <marker date="1541911855041" expanded="true" signature="760:812" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EventManager.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/EventManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+              <folding>
+                <marker date="1541906346888" expanded="true" signature="6:104" ph="..." />
+                <marker date="1541906346888" expanded="true" signature="148:1588" ph="{...}" />
+                <marker date="1541906346888" expanded="true" signature="290:633" ph="{...}" />
+                <marker date="1541906346888" expanded="true" signature="299:630" ph="{...}" />
+                <marker date="1541906346888" expanded="true" signature="325:601" ph="{...}" />
+                <marker date="1541906346888" expanded="true" signature="431:547" ph="{...}" />
+                <marker date="1541906346888" expanded="true" signature="556:596" ph="{...}" />
+                <marker date="1541906346888" expanded="true" signature="648:752" ph="{...}" />
+                <marker date="1541906346888" expanded="true" signature="682:749" ph="{...}" />
+                <marker date="1541906346888" expanded="true" signature="829:1125" ph="{...}" />
+                <marker date="1541906346888" expanded="true" signature="934:979" ph="{...}" />
+                <marker date="1541906346888" expanded="true" signature="987:1122" ph="{...}" />
+                <marker date="1541906346888" expanded="true" signature="1201:1393" ph="{...}" />
+                <marker date="1541906346888" expanded="true" signature="1342:1390" ph="{...}" />
+                <marker date="1541906346888" expanded="true" signature="1446:1586" ph="{...}" />
+                <marker date="1541906346888" expanded="true" signature="1551:1583" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>filename</find>
+      <find>textmes</find>
+      <find>spawnTho</find>
+      <find>SpawnTHough</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/_TheThing/SCRIPTS/MicListenerNew.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/LeapMotion/Modules/InteractionEngine/Scripts/Internal/ContactBone.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/EventManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_TheThing/SCRIPTS/SendText.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SteamVR/Scripts/SteamVR_Render.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_TheThing/SCRIPTS/SpawnThought.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_TheThing/SCRIPTS/SavWav.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/MicrophoneListener.cs" />
+        <option value="$PROJECT_DIR$/Assets/Playback.cs" />
+        <option value="$PROJECT_DIR$/Assets/SpawnThought.cs" />
+        <option value="$PROJECT_DIR$/Assets/MicListenerNew.cs" />
+        <option value="$PROJECT_DIR$/Assets/Message.cs" />
+        <option value="$PROJECT_DIR$/Assets/MessageSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/_TheThing/SCRIPTS/MicrophoneListener.cs" />
+        <option value="$PROJECT_DIR$/Assets/EventManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/_TheThing/SCRIPTS/MicListenerNew.cs" />
+        <option value="$PROJECT_DIR$/Assets/_TheThing/SCRIPTS/SpawnThought.cs" />
+        <option value="$PROJECT_DIR$/Assets/_TheThing/SCRIPTS/SendText.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="814" />
+    <option name="height" value="867" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <autoscrollFromSource UnityExplorer="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Mic Test" type="483dac07:UnityExplorerNode$Root" />
+            </path>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Mic Test" type="483dac07:UnityExplorerNode$Root" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Mic Test" type="483dac07:UnityExplorerNode$Root" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Mic Test" type="483dac07:UnityExplorerNode$Root" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fcc3cf31-c912-40f6-8872-4d1c578a3d76" name="Default" comment="" />
+      <created>1541873016477</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541873016477</updated>
+      <workItem from="1541873018545" duration="6411000" />
+      <workItem from="1541891359953" duration="5134000" />
+      <workItem from="1541899581427" duration="1821000" />
+      <workItem from="1541904231506" duration="5496000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="18862000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="814" height="867" extended-state="0" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.5344828" />
+      <window_info anchor="bottom" id="Unity" order="7" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/_TheThing/SCRIPTS/SavWav.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1972">
+          <caret line="119" column="14" selection-start-line="119" selection-start-column="14" selection-end-line="119" selection-end-column="14" />
+          <folding>
+            <marker date="1541870806738" expanded="true" signature="0:1181" ph="/* Copyright (c) 2012 Calvin Rien ... */" />
+            <marker date="1541870806738" expanded="false" signature="1189:1266" ph="..." />
+            <marker date="1541870806738" expanded="true" signature="1294:6231" ph="{...}" />
+            <marker date="1541870806738" expanded="true" signature="1390:1999" ph="{...}" />
+            <marker date="1541870806738" expanded="true" signature="1446:1498" ph="{...}" />
+            <marker date="1541870806738" expanded="true" signature="1801:1912" ph="{...}" />
+            <marker date="1541870806738" expanded="true" signature="2067:2252" ph="{...}" />
+            <marker date="1541870806738" expanded="true" signature="2347:2429" ph="{...}" />
+            <marker date="1541870806738" expanded="true" signature="2547:3147" ph="{...}" />
+            <marker date="1541870806738" expanded="true" signature="2613:2729" ph="{...}" />
+            <marker date="1541870806738" expanded="true" signature="2668:2719" ph="{...}" />
+            <marker date="1541870806738" expanded="true" signature="2814:2930" ph="{...}" />
+            <marker date="1541870806738" expanded="true" signature="2869:2920" ph="{...}" />
+            <marker date="1541870806738" expanded="true" signature="3199:3479" ph="{...}" />
+            <marker date="1541870806738" expanded="true" signature="3380:3445" ph="{...}" />
+            <marker date="1541870806738" expanded="true" signature="3551:4356" ph="{...}" />
+            <marker date="1541870806738" expanded="true" signature="3837:3949" ph="/* bytesData array is twice the size of ... */" />
+            <marker date="1541870806738" expanded="true" signature="4063:4291" ph="{...}" />
+            <marker date="1541870806738" expanded="true" signature="4424:6229" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_TheThing/SCRIPTS/SpawnThought.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <marker date="1541909471879" expanded="true" signature="6:75" ph="..." />
+            <marker date="1541909471879" expanded="true" signature="104:760" ph="{...}" />
+            <marker date="1541909471879" expanded="true" signature="152:758" ph="{...}" />
+            <marker date="1541909471879" expanded="true" signature="303:752" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_TheThing/SCRIPTS/MicListenerNew.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="98" selection-start-line="98" selection-end-line="98" />
+          <folding>
+            <marker date="1541906637408" expanded="false" signature="6:294" ph="..." />
+            <marker date="1541906637408" expanded="true" signature="379:8117" ph="{...}" />
+            <marker date="1541906637408" expanded="true" signature="386:489" ph="/* Written in part by Benjamin Outram ... */" />
+            <marker date="1541906637408" expanded="true" signature="839:1067" ph="/* public to allow temporary listening over the speakers if you want of the mic output ... */" />
+            <marker date="1541906637408" expanded="true" signature="1212:1936" ph="/* make an audio mixer from the &quot;create&quot; menu, then drag it into the public field on this script. ... */" />
+            <marker date="1541906637408" expanded="true" signature="2058:2241" ph="{...}" />
+            <marker date="1541906637408" expanded="true" signature="2135:2235" ph="{...}" />
+            <marker date="1541906637408" expanded="true" signature="2260:3079" ph="{...}" />
+            <marker date="1541906637408" expanded="true" signature="2427:2541" ph="{...}" />
+            <marker date="1541906637408" expanded="true" signature="2579:2695" ph="{...}" />
+            <marker date="1541906637408" expanded="true" signature="3175:3619" ph="{...}" />
+            <marker date="1541906637408" expanded="true" signature="3427:3492" ph="{...}" />
+            <marker date="1541906637408" expanded="true" signature="3645:6444" ph="{...}" />
+            <marker date="1541906637408" expanded="true" signature="5245:6438" ph="/* url = &quot;https://speech.googleapis.com/v1/speech:recognize?key=&quot;+apiKey; ... */" />
+            <marker date="1541906637408" expanded="true" signature="6488:6786" ph="{...}" />
+            <marker date="1541906637408" expanded="true" signature="6793:6934" ph="/* controls whether the volume is on or off, use &quot;off&quot; for mic input (dont want to hear your own voice input!) ... */" />
+            <marker date="1541906637408" expanded="true" signature="6977:7195" ph="{...}" />
+            <marker date="1541906637408" expanded="true" signature="7031:7078" ph="{...}" />
+            <marker date="1541906637408" expanded="true" signature="7091:7140" ph="{...}" />
+            <marker date="1541906637408" expanded="true" signature="7305:7475" ph="{...}" />
+            <marker date="1541906637408" expanded="true" signature="7578:8115" ph="{...}" />
+            <marker date="1541906637408" expanded="true" signature="7618:8109" ph="{...}" />
+            <marker date="1541906637408" expanded="true" signature="7790:8099" ph="{...}" />
+            <marker date="1541906637408" expanded="true" signature="7995:8031" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_TheThing/SCRIPTS/MicrophoneListener.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1581">
+          <caret line="93" column="7" selection-start-line="93" selection-start-column="7" selection-end-line="93" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_TheThing/SCRIPTS/SavWav.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1972">
+          <caret line="119" selection-start-line="119" selection-end-line="119" />
+          <folding>
+            <marker date="1541870806738" expanded="true" signature="0:1181" ph="/* Copyright (c) 2012 Calvin Rien ... */" />
+            <marker date="1541870806738" expanded="false" signature="1189:1266" ph="..." />
+            <marker date="1541870806738" expanded="true" signature="1294:6231" ph="{...}" />
+            <marker date="1541870806738" expanded="true" signature="1390:1999" ph="{...}" />
+            <marker date="1541870806738" expanded="true" signature="1446:1498" ph="{...}" />
+            <marker date="1541870806738" expanded="true" signature="1801:1912" ph="{...}" />
+            <marker date="1541870806738" expanded="true" signature="2067:2252" ph="{...}" />
+            <marker date="1541870806738" expanded="true" signature="2347:2429" ph="{...}" />
+            <marker date="1541870806738" expanded="true" signature="2547:3147" ph="{...}" />
+            <marker date="1541870806738" expanded="true" signature="2613:2729" ph="{...}" />
+            <marker date="1541870806738" expanded="true" signature="2668:2719" ph="{...}" />
+            <marker date="1541870806738" expanded="true" signature="2814:2930" ph="{...}" />
+            <marker date="1541870806738" expanded="true" signature="2869:2920" ph="{...}" />
+            <marker date="1541870806738" expanded="true" signature="3199:3479" ph="{...}" />
+            <marker date="1541870806738" expanded="true" signature="3380:3445" ph="{...}" />
+            <marker date="1541870806738" expanded="true" signature="3551:4356" ph="{...}" />
+            <marker date="1541870806738" expanded="true" signature="3837:3949" ph="/* bytesData array is twice the size of ... */" />
+            <marker date="1541870806738" expanded="true" signature="4063:4291" ph="{...}" />
+            <marker date="1541870806738" expanded="true" signature="4424:6229" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_TheThing/SCRIPTS/SpawnThought.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+          <folding>
+            <marker date="1541909471879" expanded="true" signature="6:75" ph="..." />
+            <marker date="1541909471879" expanded="true" signature="104:760" ph="{...}" />
+            <marker date="1541909471879" expanded="true" signature="152:758" ph="{...}" />
+            <marker date="1541909471879" expanded="true" signature="303:752" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/LeapMotion/Modules/InteractionEngine/Scripts/Internal/ContactBone.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2822">
+          <caret line="167" selection-start-line="167" selection-end-line="167" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_TheThing/SCRIPTS/MicrophoneListener.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1581">
+          <caret line="93" column="7" selection-start-line="93" selection-start-column="7" selection-end-line="93" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_TheThing/SCRIPTS/MicListenerNew.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3043">
+          <caret line="179" column="36" lean-forward="true" selection-start-line="179" selection-start-column="36" selection-end-line="179" selection-end-column="36" />
+          <folding>
+            <marker date="1541906637408" expanded="false" signature="6:294" ph="..." />
+            <marker date="1541906637408" expanded="true" signature="379:8117" ph="{...}" />
+            <marker date="1541906637408" expanded="true" signature="386:489" ph="/* Written in part by Benjamin Outram ... */" />
+            <marker date="1541906637408" expanded="true" signature="839:1067" ph="/* public to allow temporary listening over the speakers if you want of the mic output ... */" />
+            <marker date="1541906637408" expanded="true" signature="1212:1936" ph="/* make an audio mixer from the &quot;create&quot; menu, then drag it into the public field on this script. ... */" />
+            <marker date="1541906637408" expanded="true" signature="2058:2241" ph="{...}" />
+            <marker date="1541906637408" expanded="true" signature="2135:2235" ph="{...}" />
+            <marker date="1541906637408" expanded="true" signature="2260:3079" ph="{...}" />
+            <marker date="1541906637408" expanded="true" signature="2427:2541" ph="{...}" />
+            <marker date="1541906637408" expanded="true" signature="2579:2695" ph="{...}" />
+            <marker date="1541906637408" expanded="true" signature="3175:3619" ph="{...}" />
+            <marker date="1541906637408" expanded="true" signature="3427:3492" ph="{...}" />
+            <marker date="1541906637408" expanded="true" signature="3645:6444" ph="{...}" />
+            <marker date="1541906637408" expanded="true" signature="5245:6438" ph="/* url = &quot;https://speech.googleapis.com/v1/speech:recognize?key=&quot;+apiKey; ... */" />
+            <marker date="1541906637408" expanded="true" signature="6488:6786" ph="{...}" />
+            <marker date="1541906637408" expanded="true" signature="6793:6934" ph="/* controls whether the volume is on or off, use &quot;off&quot; for mic input (dont want to hear your own voice input!) ... */" />
+            <marker date="1541906637408" expanded="true" signature="6977:7195" ph="{...}" />
+            <marker date="1541906637408" expanded="true" signature="7031:7078" ph="{...}" />
+            <marker date="1541906637408" expanded="true" signature="7091:7140" ph="{...}" />
+            <marker date="1541906637408" expanded="true" signature="7305:7475" ph="{...}" />
+            <marker date="1541906637408" expanded="true" signature="7578:8115" ph="{...}" />
+            <marker date="1541906637408" expanded="true" signature="7618:8109" ph="{...}" />
+            <marker date="1541906637408" expanded="true" signature="7790:8099" ph="{...}" />
+            <marker date="1541906637408" expanded="true" signature="7995:8031" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SavWav.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Playback.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/SteamVR/Scripts/SteamVR_Render.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MicrophoneListener.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/SpawnThought.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/MicListenerNew.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Message.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/MessageSystem.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/_TheThing/SCRIPTS/MicrophoneListener.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1581">
+          <caret line="93" column="7" selection-start-line="93" selection-start-column="7" selection-end-line="93" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/LeapMotion/Modules/InteractionEngine/Scripts/Internal/ContactBone.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="167" selection-start-line="167" selection-end-line="167" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_TheThing/SCRIPTS/SavWav.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="151" column="33" selection-start-line="151" selection-start-column="33" selection-end-line="151" selection-end-column="33" />
+          <folding>
+            <marker date="1541870806738" expanded="true" signature="0:1181" ph="/* Copyright (c) 2012 Calvin Rien ... */" />
+            <marker date="1541870806738" expanded="false" signature="1189:1266" ph="..." />
+            <marker date="1541870806738" expanded="true" signature="1294:6231" ph="{...}" />
+            <marker date="1541870806738" expanded="true" signature="1390:1999" ph="{...}" />
+            <marker date="1541870806738" expanded="true" signature="1446:1498" ph="{...}" />
+            <marker date="1541870806738" expanded="true" signature="1801:1912" ph="{...}" />
+            <marker date="1541870806738" expanded="true" signature="2067:2252" ph="{...}" />
+            <marker date="1541870806738" expanded="true" signature="2347:2429" ph="{...}" />
+            <marker date="1541870806738" expanded="true" signature="2547:3147" ph="{...}" />
+            <marker date="1541870806738" expanded="true" signature="2613:2729" ph="{...}" />
+            <marker date="1541870806738" expanded="true" signature="2668:2719" ph="{...}" />
+            <marker date="1541870806738" expanded="true" signature="2814:2930" ph="{...}" />
+            <marker date="1541870806738" expanded="true" signature="2869:2920" ph="{...}" />
+            <marker date="1541870806738" expanded="true" signature="3199:3479" ph="{...}" />
+            <marker date="1541870806738" expanded="true" signature="3380:3445" ph="{...}" />
+            <marker date="1541870806738" expanded="true" signature="3551:4356" ph="{...}" />
+            <marker date="1541870806738" expanded="true" signature="3837:3949" ph="/* bytesData array is twice the size of ... */" />
+            <marker date="1541870806738" expanded="true" signature="4063:4291" ph="{...}" />
+            <marker date="1541870806738" expanded="true" signature="4424:6229" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/EventManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+          <folding>
+            <marker date="1541906346888" expanded="true" signature="6:104" ph="..." />
+            <marker date="1541906346888" expanded="true" signature="148:1588" ph="{...}" />
+            <marker date="1541906346888" expanded="true" signature="290:633" ph="{...}" />
+            <marker date="1541906346888" expanded="true" signature="299:630" ph="{...}" />
+            <marker date="1541906346888" expanded="true" signature="325:601" ph="{...}" />
+            <marker date="1541906346888" expanded="true" signature="431:547" ph="{...}" />
+            <marker date="1541906346888" expanded="true" signature="556:596" ph="{...}" />
+            <marker date="1541906346888" expanded="true" signature="648:752" ph="{...}" />
+            <marker date="1541906346888" expanded="true" signature="682:749" ph="{...}" />
+            <marker date="1541906346888" expanded="true" signature="829:1125" ph="{...}" />
+            <marker date="1541906346888" expanded="true" signature="934:979" ph="{...}" />
+            <marker date="1541906346888" expanded="true" signature="987:1122" ph="{...}" />
+            <marker date="1541906346888" expanded="true" signature="1201:1393" ph="{...}" />
+            <marker date="1541906346888" expanded="true" signature="1342:1390" ph="{...}" />
+            <marker date="1541906346888" expanded="true" signature="1446:1586" ph="{...}" />
+            <marker date="1541906346888" expanded="true" signature="1551:1583" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_TheThing/SCRIPTS/MicListenerNew.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="47" column="22" selection-start-line="47" selection-start-column="11" selection-end-line="47" selection-end-column="22" />
+          <folding>
+            <marker date="1541906637408" expanded="false" signature="6:294" ph="..." />
+            <marker date="1541906637408" expanded="true" signature="379:8117" ph="{...}" />
+            <marker date="1541906637408" expanded="true" signature="386:489" ph="/* Written in part by Benjamin Outram ... */" />
+            <marker date="1541906637408" expanded="true" signature="839:1067" ph="/* public to allow temporary listening over the speakers if you want of the mic output ... */" />
+            <marker date="1541906637408" expanded="true" signature="1212:1936" ph="/* make an audio mixer from the &quot;create&quot; menu, then drag it into the public field on this script. ... */" />
+            <marker date="1541906637408" expanded="true" signature="2058:2241" ph="{...}" />
+            <marker date="1541906637408" expanded="true" signature="2135:2235" ph="{...}" />
+            <marker date="1541906637408" expanded="true" signature="2260:3079" ph="{...}" />
+            <marker date="1541906637408" expanded="true" signature="2427:2541" ph="{...}" />
+            <marker date="1541906637408" expanded="true" signature="2579:2695" ph="{...}" />
+            <marker date="1541906637408" expanded="true" signature="3175:3619" ph="{...}" />
+            <marker date="1541906637408" expanded="true" signature="3427:3492" ph="{...}" />
+            <marker date="1541906637408" expanded="true" signature="3645:6444" ph="{...}" />
+            <marker date="1541906637408" expanded="true" signature="5245:6438" ph="/* url = &quot;https://speech.googleapis.com/v1/speech:recognize?key=&quot;+apiKey; ... */" />
+            <marker date="1541906637408" expanded="true" signature="6488:6786" ph="{...}" />
+            <marker date="1541906637408" expanded="true" signature="6793:6934" ph="/* controls whether the volume is on or off, use &quot;off&quot; for mic input (dont want to hear your own voice input!) ... */" />
+            <marker date="1541906637408" expanded="true" signature="6977:7195" ph="{...}" />
+            <marker date="1541906637408" expanded="true" signature="7031:7078" ph="{...}" />
+            <marker date="1541906637408" expanded="true" signature="7091:7140" ph="{...}" />
+            <marker date="1541906637408" expanded="true" signature="7305:7475" ph="{...}" />
+            <marker date="1541906637408" expanded="true" signature="7578:8115" ph="{...}" />
+            <marker date="1541906637408" expanded="true" signature="7618:8109" ph="{...}" />
+            <marker date="1541906637408" expanded="true" signature="7790:8099" ph="{...}" />
+            <marker date="1541906637408" expanded="true" signature="7995:8031" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_TheThing/SCRIPTS/SpawnThought.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+          <folding>
+            <marker date="1541909471879" expanded="true" signature="6:75" ph="..." />
+            <marker date="1541909471879" expanded="true" signature="104:760" ph="{...}" />
+            <marker date="1541909471879" expanded="true" signature="152:758" ph="{...}" />
+            <marker date="1541909471879" expanded="true" signature="303:752" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_TheThing/SCRIPTS/SendText.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="33" lean-forward="true" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+          <folding>
+            <marker date="1541911855041" expanded="true" signature="6:122" ph="..." />
+            <marker date="1541911855041" expanded="true" signature="162:817" ph="{...}" />
+            <marker date="1541911855041" expanded="true" signature="224:256" ph="{...}" />
+            <marker date="1541911855041" expanded="true" signature="281:815" ph="{...}" />
+            <marker date="1541911855041" expanded="true" signature="726:760" ph="{...}" />
+            <marker date="1541911855041" expanded="true" signature="760:812" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
